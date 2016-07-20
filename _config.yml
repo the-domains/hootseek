@@ -1,0 +1,14 @@
+layout_spectrum: 0.08543841633945704
+typography_spectrum: 0.49849208374507725
+color:
+  brandStrength: 0.7870190930552781
+  lightness: 0.06848098174668849
+  saturation: 0.6618792654480785
+  rhythmicContrast: 0.44900567922741175
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Hootseek
